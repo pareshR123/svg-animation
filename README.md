@@ -7,6 +7,6 @@ SVG images look perfect on any screen size and with the importance of mobile web
 SVG allows you to create animations and take flat illustrations to a whole new level.
 
 * Create SVG animations using HTML & CSS
-* Should have some experience with HTML & CSS. Know how to use HTML tags for content and style those HTML tags using CSS classes.
-* Students should have some experience with creating websites with HTML & CSS.
-* Used CSS properties needed for SVG line animations in the browser
+* Should have some experience with creating websites with HTML & CSS.
+* Know how to use HTML tags for content and style those HTML tags using CSS classes.
+* Used CSS properties needed for SVG line animations in the browser.
