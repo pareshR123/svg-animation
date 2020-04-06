@@ -1,3 +1,10 @@
+<p align="center">
+  <br>
+  <img width="400" src="./assets/logo.svg" alt="logo of vue-awesome repository">
+  <br>
+  <br>
+</p>
+
 # SVG & CSS Animation - Using HTML & CSS
 
 Welcome to the project! Learn the fundamentals of creating SVG animations in the browser using HTML & CSS.
