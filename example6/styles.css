@@ -1,0 +1,41 @@
+body{
+    background: #ee7674;
+}
+svg{
+    margin: auto;
+    position: absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+}
+#top polygon{
+    fill: #f49e4c;
+    stroke-width: 3px;
+    animation: 3s scale infinite alternate;
+    animation-delay: 2s;
+    transform-origin: 50% 50%;
+}
+#middle polygon{
+    fill: #565676;
+    stroke-width: 3px;
+    animation: 4s scale infinite alternate;
+    animation-delay: 1s;
+    transform-origin: 50% 50%;
+}
+#bottom polygon{
+    fill: #f5ee93;
+    stroke-width: 3px;
+    animation: 5s scale infinite alternate;
+    transform-origin: 50% 50%;
+}
+@keyframes scale{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(0.5);
+    }
+}
+
+
